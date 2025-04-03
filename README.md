@@ -46,8 +46,6 @@ python manage.py runserver
 ```
 6. View the application by visiting `http://127.0.0.1:8000/`
 
-## Deployment
-https://luxevista-d8da5d2dec40.herokuapp.com
 
 
 
