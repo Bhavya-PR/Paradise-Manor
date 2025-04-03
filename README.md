@@ -1,4 +1,4 @@
-# Luxevista
+# Paradise Manor
 A hotel reservation system implemented as a part of learning SDLC. 
 
 ## Planning and Requirement Analysis
